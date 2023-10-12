@@ -86,7 +86,7 @@ st.markdown(
         background-color: #ffffff;
     }
     .st-c2 {
-        color: white;
+        color: black;
     }
     .st-df {
         font-size: 20px;
