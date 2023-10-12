@@ -6,7 +6,7 @@ from sklearn.decomposition import TruncatedSVD
 from fuzzywuzzy import fuzz, process  # Install fuzzywuzzy via pip
 
 # Path to your CSV file containing movie metadata
-csv_file_path = 'dataset/mymoviedb.csv'
+csv_file_path = 'mymoviedb.csv'
 
 # Load movie metadata from the CSV file
 metadata = pd.read_csv(csv_file_path, low_memory=False)
