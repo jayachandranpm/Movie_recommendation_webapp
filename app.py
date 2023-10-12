@@ -83,7 +83,7 @@ st.markdown(
         background-color: #f0f0f0;
     }
     .st-ag {
-        background-color: #333;
+        background-color: #ffffff;
     }
     .st-c2 {
         color: white;
